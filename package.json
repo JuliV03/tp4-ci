@@ -1,0 +1,26 @@
+{
+  "name": "tp4-ci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semanuelgomez/tp4-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semanuelgomez/tp4-ci/issues"
+  },
+  "homepage": "https://github.com/semanuelgomez/tp4-ci#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.2"
+  }
+}
